@@ -1,4 +1,4 @@
-TPI-UNRT-Equipo-6
+TPI-UNRT-Equipo-6-PROGRAMACÓN
 # <p align=center>Proyecto "SmartRoast S.A."<br>Experiencia del Usuario Final</p>
 
 ## 1. Contexto del negocio
