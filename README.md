@@ -19,18 +19,23 @@ Lo que lo hace diferente del café de supermercado no es solo el sabor — es la
 
 ### Los perfiles que trabaja este proyecto
 
-Estos son los seis tipos de café que el recomendador puede sugerirte, cada uno con un perfil de sabor distinto:
+Los 8 cafés del catálogo provienen de tostaderías argentinas reales con trazabilidad completa:
 
-| Café | Origen | Proceso | Perfil de sabor |
-|------|--------|---------|-----------------|
-| Etiopía Natural | Yirgacheffe, Etiopía | Natural / seco | Frutal intenso: arándano, fresa, jazmín |
-| Colombia Lavado | Huila / Nariño, Colombia | Lavado | Limpio, equilibrado: caramelo, durazno |
-| Kenia AA | Nyeri / Kirinyaga, Kenia | Lavado | Ácido y vibrante: grosella negra, cítricos |
-| Brasil Natural | Cerrado / Sul de Minas, Brasil | Natural | Cremoso, bajo en acidez: chocolate, avellana |
-| Costa Rica Honey | Tarrazú, Costa Rica | Honey / miel | Dulce y equilibrado: miel, almendra, durazno |
-| Guatemala Antigua | Antigua, Guatemala | Lavado | Robusto y oscuro: chocolate amargo, especias |
+| # | Café | Tostadería[^1][^2] | Origen | Proceso | SCA | Notas de sabor |
+|---|------|-----------|--------|---------|-----|----------------|
+| 1 | Kenia SL28 — Embu | Café Cumbal (Mendoza) | Embu, Kenia | Lavado | 85 | Té negro, pomelo, vainilla |
+| 2 | Colombia Caturra — Honey | Café Cumbal (Mendoza) | Huila, Colombia | Honey | 84.75 | Chocolate, caramelo, cítrico, miel |
+| 3 | Etiopía Heirloom — Oromia | Café Cumbal (Mendoza) | Oromia, Etiopía | Lavado | 84 | Cacao, pasas, especias rojas |
+| 4 | El Salvador Montealegre | John & Joe (Buenos Aires) | Volcán Tecapa, El Salvador | Natural | 85 | Piña, uva roja, dátiles, dulzor marcado |
+| 5 | Colombia Supremo | John & Joe (Buenos Aires) | Nariño, Huila, Antioquia | Lavado | 85 | Almendras tostadas, chocolate, suave |
+| 6 | Brazil Santos Cerrado | John & Joe (Buenos Aires) | Cerrado Mineiro, Brasil | Natural | 84 | Frutos secos, chocolate, gran cuerpo |
+| 7 | Bolivia Yanaloma | John & Joe (Buenos Aires) | Apolo, La Paz | Lavado | 84.5 | Chocolate suave, frutos secos, manjar |
+| 8 | Brazil Amarelo Santos | John & Joe (Buenos Aires) | Brejetuba, Espíritu Santo | Lavado | 85 | Frutilla, mora, azúcar mascabo |
 
 > 💡 **¿Qué es el proceso?** Después de cosechar la cereza de café, hay distintas formas de separar el grano de la fruta. El **proceso natural** seca la cereza entera, lo que genera sabores frutales intensos. El **lavado** remueve toda la pulpa antes de secar, produciendo tazas limpias y de alta acidez. El **honey** es un punto intermedio: retiene parte del mucílago, aportando dulzura sin los sabores fermentados del natural.
+
+[^1]: [cafecumbal.ar](https://cafecumbal.ar/tienda-online/)
+[^2]: [johnandjoe.com.ar](https://johnandjoe.com.ar/productos1/)
 
 ---
 
