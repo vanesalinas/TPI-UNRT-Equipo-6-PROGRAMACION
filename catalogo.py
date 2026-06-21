@@ -5,7 +5,9 @@ catalogo=[
         "Origen": "Embu, Kenia",
         "Proceso": "Lavado",
         "SCA":"85",
-        "Notas de sabor": "Te negro, pomelo, vainilla"
+        "Notas de sabor": "te negro, pomelo, vainilla",
+        "Intensidad": "suave",
+        "Con leche": "solo"
     },
         {
         "Nombre cafe":"Colombia Caturra — Honey",
@@ -13,55 +15,69 @@ catalogo=[
         "Origen": "Huila, Colombia",
         "Proceso": "Honey",
         "SCA":"84.75",
-        "Notas de sabor": "Chocolate, caramelo, cítrico, miel"
+        "Notas de sabor": "chocolate, caramelo, cítrico, miel",
+        "Intensidad": "medio",
+        "Con leche": "ambos",
     },
-        {
-        "Nombre cafe":"Etiopía Heirloom — Oromia",
+    {
+        "Nombre cafe": "Etiopía Heirloom — Oromia",
         "Tostaderia": "Café Cumbal (Mendoza)",
         "Origen": "Oromia, Etiopía",
         "Proceso": "Lavado",
-        "SCA":"84",
-        "Notas de sabor": "Cacao, pasas, especias rojas"
+        "SCA": "84",
+        "Notas de sabor": "cacao, pasas, especias rojas",
+        "Intensidad": "medio",
+        "Con leche": "solo",
     },
-        {
-        "Nombre cafe":"El Salvador Montealegre",
+    {
+        "Nombre cafe": "El Salvador Montealegre",
         "Tostaderia": "John & Joe (Buenos Aires)",
         "Origen": "Volcán Tecapa, El Salvador",
         "Proceso": "Natural",
-        "SCA":"85",
-        "Notas de sabor": "Piña, uva roja, dátiles, dulzor marcado"
+        "SCA": "85",
+        "Notas de sabor": "piña, uva roja, dátiles, dulzor marcado",
+        "Intensidad": "intenso",
+        "Con leche": "ambos",
     },
-        {
-        "Nombre cafe":"Colombia Supremo",
+    {
+        "Nombre cafe": "Colombia Supremo",
         "Tostaderia": "John & Joe (Buenos Aires)",
         "Origen": "Nariño, Huila, Antioquia",
         "Proceso": "Lavado",
-        "SCA":"85",
-        "Notas de sabor": "Almendras tostadas, chocolate, suave"
+        "SCA": "85",
+        "Notas de sabor": "almendras tostadas, chocolate, suave",
+        "Intensidad": "suave",
+        "Con leche": "ambos",
     },
-        {
-        "Nombre cafe":"Brazil Santos Cerrado",
+    {
+        "Nombre cafe": "Brazil Santos Cerrado",
         "Tostaderia": "John & Joe (Buenos Aires)",
         "Origen": "Cerrado Mineiro, Brasil",
         "Proceso": "Natural",
-        "SCA":"84",
-        "Notas de sabor": "Frutos secos, chocolate, gran cuerpo"
+        "SCA": "84",
+        "Notas de sabor": "frutos secos, chocolate, gran cuerpo",
+        "Intensidad": "intenso",
+        "Con leche": "con leche",
     },
-        {
-        "Nombre cafe":"Bolivia Yanaloma",
+    {
+        "Nombre cafe": "Bolivia Yanaloma",
         "Tostaderia": "John & Joe (Buenos Aires)",
         "Origen": "Apolo, La Paz",
         "Proceso": "Lavado",
-        "SCA":"84.5",
-        "Notas de sabor": "Chocolate suave, frutos secos, manjar"
+        "SCA": "84.5",
+        "Notas de sabor": "chocolate suave, frutos secos, manjar",
+        "Intensidad": "medio",
+        "Con leche": "ambos",
     },
-        {
-        "Nombre cafe":"Brazil Amarelo Santos",
+    {
+        "Nombre cafe": "Brazil Amarelo Santos",
         "Tostaderia": "John & Joe (Buenos Aires)",
         "Origen": "Brejetuba, Espíritu Santo",
         "Proceso": "Lavado",
-        "SCA":"85",
-        "Notas de sabor": "Frutilla, mora, azúcar mascabo"
+        "SCA": "85",
+        "Notas de sabor": "frutilla, mora, azúcar mascabo",
+        "Intensidad": "suave",
+        "Con leche": "solo"
     }
 ]
 
