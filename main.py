@@ -42,8 +42,11 @@ def recomendador(respuestas):
                 mejor_coincidencias.append(notas)
             if coincide_intesidad:
                 mejor_coincidencias.append(intensidad)
-              
-                respuestas = preguntas()
+
+    if mejor_cafe:
+        return mejor_cafe, mejor_coincidencias
+
+respuestas = preguntas()
 cafes_recomendados, coincidencias = recomendador(respuestas)
 
 if cafes_recomendados:
