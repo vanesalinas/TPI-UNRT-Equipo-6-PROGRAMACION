@@ -1,4 +1,19 @@
 from catalogo import catalogo
+
+def preguntas ():
+    respuestas=[]
+
+    r1 = input("¿Prefiere tomar su cafe solo, con leche o ambos? ").lower()
+    respuestas.append(r1)
+
+    r2 = input("¿Que notas de sabor prefere o le gustara probar? Vainilla / Chocolate / Frutilla / Frutos secos / Pasas / Dulzor marcado / Ninguno ").lower()
+    respuestas.append(r2)
+
+    r3 = input("¿Que intensidad prefiere? Suave / Medio / Intenso ").lower()
+    respuestas.append(r3)
+    
+    return respuestas
+    
 def recomendador(respuestas):
     leche = respuestas[0]
     notas = respuestas[1]
